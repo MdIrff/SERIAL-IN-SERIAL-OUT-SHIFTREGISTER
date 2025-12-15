@@ -60,5 +60,6 @@ Developed by:Muhammad Irfan M RegisterNumber:25014471
 
 
 **RESULTS**
+
 Hence SISO Shift Register using verilog and validating their functionality using their functional tables program was executed and the Output is verified successfully.
 
